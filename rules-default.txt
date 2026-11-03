@@ -1,0 +1,55 @@
+# Kingside rules
+
+> Short version: play fair, be kind, and play as yourself. Moderators, head moderators and the owner enforce these rules, and a real person looks at every automatic flag before anything happens.
+
+## 1. Fair play
+
+- **No engines or computer help.** Do not use Stockfish, another chess engine, an analysis board or any bot to choose your moves in a game against a person. The Play bots page is for playing the computer, not for getting help in rated games.
+- **No outside help.** No asking another person, a coach or a stream chat for moves while your game is going. No opening books or tablebases during a game.
+- **No playing through someone else.** Do not let another person play your account, and do not play on someone else's.
+- **The system checks.** After each rated game the server looks at how accurate each side played. A player whose recent rated games show both a very high win rate and very high accuracy is flagged for the moderators and the owner. A flag is not a punishment: a moderator looks at the games first, and a strong honest player can be flagged too.
+
+## 2. Ratings
+
+- **No rating manipulation.** Do not lose on purpose, trade wins with a friend, or use a second account to push a rating up or down.
+- **No sandbagging.** Do not play badly on purpose to lower your rating and then beat weaker players.
+- Rating changes get smaller the higher your rating is, and every category (bullet, blitz, rapid) has its own rating. Ratings are decided by the server only.
+- **If an account is banned for good**, the rating points it took from other players are given back to them.
+
+## 3. Aborting and leaving games
+
+- You may **abort** a game before you have made your first move. Aborted games are not rated and change nobody's rating.
+- Aborting a lot is reported: after 3 aborts in 24 hours you get a warning, and at 5 the moderators and the owner are told. It is a flag for a human to look at, nothing happens automatically.
+- Do not walk away from games you are losing and do not stall on purpose. If you run out of time you lose on time, as usual.
+
+## 4. Behaviour and chat
+
+- Be respectful. No insults, harassment, threats, hate speech or discrimination, in chat, in usernames or on profiles.
+- No spam, advertising or scams, and no sharing other people's private details.
+- Do not spam friend requests or challenges. Players can say no, and you can remove a friend at any time. Repeatedly pestering someone can be reported like any other harassment.
+- Usernames must not be offensive, must not pretend to be staff or a titled player, and must not copy someone else's name to fool people. Titles (GM, IM and so on) are only given by the owner.
+
+## 5. Accounts
+
+- An email address is needed to sign up. It is private. It is not checked, but it is used to link accounts: **if one email has several accounts and one of them is banned, all of them are banned**, for the same reason.
+- A banned email cannot be used to sign up again. Making new accounts to get around a ban is ban evasion, and those accounts will be banned too.
+- You are responsible for what happens on your account. Keep your password to yourself.
+
+## 6. Reporting
+
+- Use the **Report player** button on a player's profile and say what happened. Moderators see your username and your message.
+- Report honestly. Do not send false or joke reports, and do not report the same player again and again. You can send up to 5 reports a day.
+
+## 7. Tournaments
+
+- Only the owner and head moderators start tournaments. Games are rated, and every rule above applies. Cheating in a tournament is treated as cheating anywhere else.
+- When you join, you are paired automatically for as long as it runs. If you have to leave, press **Pause** so your opponents are not left waiting. A game you never move in is aborted, and you are paused automatically.
+- Do not team up with a friend to feed each other points, and do not lose on purpose. The standings are checked, and moderators can remove players from a tournament result by banning them.
+
+## 8. What happens if you break the rules
+
+- Moderators and the owner can ban an account for a set time or for good, always with a written reason you can see when you try to log in.
+- Cheating, rating manipulation and ban evasion are the most serious and can lead to a permanent ban of every account linked to the same email.
+- **Appeals:** if you think a ban was a mistake, try to log in. The login box shows your ban and an *Appeal this ban* button. Write what happened (you need your password to prove the account is yours). One appeal at a time, and a moderator reads every one.
+
+> These rules can change. Playing on Kingside means you agree to them.
